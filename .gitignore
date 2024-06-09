@@ -1,3 +1,7 @@
 *.iml
 *.class
 Maven*
+
+target
+
+.idea
