@@ -15,8 +15,8 @@
         <module>obs</module>
         <module>dynamic-threadpool</module>
         <module>risk-control</module>
-        <module>caffeine</module>
         <module>curd-template</module>
+        <module>caffeine</module>
     </modules>
 
     <properties>
