@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/caffeine/caffeine.iml" filepath="$PROJECT_DIR$/caffeine/caffeine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curd-template/curd-template.iml" filepath="$PROJECT_DIR$/curd-template/curd-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic-threadpool/dynamic-threadpool.iml" filepath="$PROJECT_DIR$/dynamic-threadpool/dynamic-threadpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email/email.iml" filepath="$PROJECT_DIR$/email/email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encryption/encryption.iml" filepath="$PROJECT_DIR$/encryption/encryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/obs/obs.iml" filepath="$PROJECT_DIR$/obs/obs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/risk-control/risk-control.iml" filepath="$PROJECT_DIR$/risk-control/risk-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxljob/xxljob.iml" filepath="$PROJECT_DIR$/xxljob/xxljob.iml" />
+    </modules>
+  </component>
+</project>
